@@ -28,4 +28,4 @@ Platform|Contest|Description|Findings|
 ## Projects inspired from contest codebases
 Platform|Contest|Description|New addition|
 |:------|:------|:----------|:-------|
-|Cantina|[Liquity-Bold](https://cantina.xyz/competitions/d86632df-ab33-4448-8198-64955eae6712)|Modular Stablecoin|[Dynamic Collateral Allocation](https://github.com/orangesantra/bold-dynamicCollateralAllocation)|
+|Cantina|[Liquity-Bold](https://cantina.xyz/competitions/d86632df-ab33-4448-8198-64955eae6712)|Modular Stablecoin|[Dynamic Collateral Allocation](https://github.com/orangesantra/bold-dynamicCollateralAllocation/blob/main/contracts/src/DynamicCollateralAllocation/README.md)|
