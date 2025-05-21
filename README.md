@@ -1,14 +1,12 @@
-# Audit Portfolio
-This is my Audit portfolio consisting  contests on sherlock, code4rena, cantina and codehawks.
+# Security Portfolio
+This is my Audit portfolio consisting contests on sherlock, code4rena, cantina and codehawks.
 
 ## Total Findings
 |High|Medium|Low|Total H/M|
 |:---|:-----|:--|:----|
 |9|3|4|12|
 
-
-
-## Audit Contests
+## Contests
 Platform|Contest|Description|Findings|
 |:------|:------|:----------|:-------|
 |Sherlock|[Aegis.im]()|Delta Neutral Stable Coin| TBD |
@@ -20,3 +18,14 @@ Platform|Contest|Description|Findings|
 |Sherlock|[Autonomint](https://audits.sherlock.xyz/contests/569/leaderboard)|Stablecoin, Derivatives|**3 H, 1 M**|
 |Cantina|[HyperLend](https://cantina.xyz/competitions/cd180bb3-5d7d-46ed-8b99-d905e54a9d0b/leaderboard)|Lending Protocol|**1 H**|
 |Cantina|[Coinbase SpendPermissions]()|Token Allowance|**1 L**|
+
+---
+
+<br><br><br>
+
+---
+
+## Projects inspired from contest codebases
+Platform|Contest|Description|New addition|
+|:------|:------|:----------|:-------|
+|Cantina|[Liquity-Bold](https://cantina.xyz/competitions/d86632df-ab33-4448-8198-64955eae6712)|Modular Stablecoin|[Dynamic Collateral Allocation](https://github.com/orangesantra/bold-dynamicCollateralAllocation)|
