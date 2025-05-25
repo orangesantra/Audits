@@ -19,11 +19,7 @@ Platform|Contest|Description|Findings|
 |Cantina|[HyperLend](https://cantina.xyz/competitions/cd180bb3-5d7d-46ed-8b99-d905e54a9d0b/leaderboard)|Lending Protocol|**1 H**|
 |Cantina|[Coinbase SpendPermissions]()|Token Allowance|**1 L**|
 
----
-
-<br><br><br>
-
----
+<br>
 
 ## Projects inspired from contest codebases
 Platform|Contest|Description|New addition|
