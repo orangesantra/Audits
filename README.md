@@ -4,7 +4,7 @@ This is my Audit portfolio consisting contests on sherlock, code4rena, cantina a
 ## Total Findings
 |High|Medium|Low|Total H/M|
 |:---|:-----|:--|:----|
-|9|3|4|12|
+|21|16|13|37|
 
 ## Contests
 Platform|Contest|Description|Findings|
