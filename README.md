@@ -13,7 +13,7 @@ Platform|Contest|Description|Findings|Report|
 |Codehawks|[RAAC](https://codehawks.cyfrin.io/c/2025-02-raac)|RWA Tokenization| **10 H, 9 M, 8 L** |
 |Sherlock|[Pinlink](https://audits.sherlock.xyz/contests/852)|DePIN| No Bug in protocol |
 |Cantina|[Daao](https://cantina.xyz/competitions/bd43bdd1-bc7f-473b-96c0-d35d37f3db33/leaderboard)|Automated Fundraising|**2 H, 1 M, 3L**|
-|Code4rena|[Lambo Win](https://code4rena.com/audits/2024-12-lambowin)|Liquidity Provision|**1 H**    **🥉** |📄
+|Code4rena|[Lambo Win](https://code4rena.com/audits/2024-12-lambowin)|Liquidity Provision|**1 H**    **🥉** |
 |Sherlock|[Plaza Finance](https://audits.sherlock.xyz/contests/682/leaderboard)|Programable Derivatives|**2 H, 1 M**|
 |Sherlock|[Autonomint](https://audits.sherlock.xyz/contests/569/leaderboard)|Stablecoin, Derivatives|**3 H, 1 M**|
 |Cantina|[HyperLend](https://cantina.xyz/competitions/cd180bb3-5d7d-46ed-8b99-d905e54a9d0b/leaderboard)|Lending Protocol|**1 H**|
