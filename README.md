@@ -27,7 +27,7 @@ Platform|Language|Contest|Description|Findings|Report|Rank|
 |Sherlock|Solidity|[Pinlink](https://audits.sherlock.xyz/contests/852)|DePIN| No Bug in protocol |-|-|
 |Cantina|Solidity|[Daao](https://cantina.xyz/competitions/bd43bdd1-bc7f-473b-96c0-d35d37f3db33/leaderboard)|Automated Fundraising|**2 H, 1 M, 3L**|[📄](Reports/DAAO.md)|-|
 |Code4rena|Solidity|[Lambo Win](https://code4rena.com/audits/2024-12-lambowin)|Liquidity Provision|**1 H**|[📄](Reports/LamboWin.md)|Top 3**🥉**
-|Sherlock|Solidity|[Plaza Finance](https://audits.sherlock.xyz/contests/682/leaderboard)|Programable Derivatives|**2 H, 1 M**|-|-|
+|Sherlock|Solidity|[Plaza Finance](https://audits.sherlock.xyz/contests/682/leaderboard)|Programable Derivatives|**2 H, 1 M**|[📄](Reports/PlazaFinance.md)|-|
 |Sherlock|Solidity|[Autonomint](https://audits.sherlock.xyz/contests/569/leaderboard)|Stablecoin, Derivatives|**3 H, 1 M**|[📄](Reports/Autonomint.md)|-|
 |Cantina|Solidity|[HyperLend](https://cantina.xyz/competitions/cd180bb3-5d7d-46ed-8b99-d905e54a9d0b/leaderboard)|Lending Protocol|**1 H**|[📄](Reports/HyperLend.md)|Top 10
 |Cantina|Solidity|[Coinbase SpendPermissions]()|Token Allowance|**1 L**|[📄](Reports/Coinbase.md)|-|
