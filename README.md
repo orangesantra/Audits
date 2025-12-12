@@ -9,14 +9,15 @@ This is my Audit portfolio consisting contests on sherlock, code4rena, cantina a
 ## Total Findings
 |High|Medium|Low|Total H+M|
 |:---|:-----|:--|:----|
-|23|16|13|39|
+|24|18|13|42|
 
 ## Contests
 Platform|Language|Contest|Description|Findings|Report|Rank|
 |:------|:-------|:------|:----------|:-------|------|----|
+|Cantina|Solidity|[Avon](https://cantina.xyz/competitions/708eecf5-a6a0-46c1-a949-277f7408decc/leaderboard)|Lending Infrastructure and OrderBook|**2 M**|-|Top 25|
 |Sherlock|Rust|[Dango Dex]()|OrderBook on Dango Chain|-|-|-|
 |Cantina|Solidity|[Kuru Finanace](https://cantina.xyz/code/cdce21ba-b787-4df4-9c56-b31d085388e7/overview)|OrderBook| **2 H** |-|Top 20|
-|Sherlock|Solidity|[Rezerve money]()|-| TBD |-|-|
+|Sherlock|Solidity|[Rezerve money]()|-| **1 H** |-|-|
 |Cantina|Solidity|[Ammalgam](https://cantina.xyz/competitions/02c29467-cb27-4beb-b2ef-500ad95e1a51)|Decentralized Lending Exchange (DLEX) Uniswap V2 fork|**1 valid solo H** → **Informational** (incorrect POC)|[📄](Reports/Ammalgam.md)|Top 5 (If poc was correct)
 |Cantina|Solidity|[Succinct](https://cantina.xyz/competitions/bd882748-077e-4e55-853f-f8df70109dbb?utm_source=x&utm_medium=social&utm_campaign=july)|Decentralized marketplace for zero-knowledge proof generation and verification|**1 M**|[📄](Reports/Succinet.md)|Top 20
 |Sherlock|Solidity|[DODO Finanace](https://audits.sherlock.xyz/contests/852)|Cross-Chain DEX and Liquidity Management| **2 H** |[📄](Reports/DODO_FInance.md)|-|
