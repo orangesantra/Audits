@@ -18,7 +18,7 @@ Platform|Language|Contest|Description|Findings|Report|Rank|
 |Sherlock|Rust|[Dango Dex]()|OrderBook on Dango Chain|-|-|-|
 |Cantina|Solidity|[Kuru Finanace](https://cantina.xyz/code/cdce21ba-b787-4df4-9c56-b31d085388e7/overview)|OrderBook| **2 H** |-|Top 20|
 |Sherlock|Solidity|[Rezerve money]()|-| **1 H** |-|-|
-|Cantina|Solidity|[Ammalgam](https://cantina.xyz/competitions/02c29467-cb27-4beb-b2ef-500ad95e1a51)|Decentralized Lending Exchange (DLEX) Uniswap V2 fork|**1 solo H** → **Informational** (incorrect POC)|[📄](Reports/Ammalgam.md)|Top 5 (If poc was correct)
+|Cantina|Solidity|[Ammalgam](https://cantina.xyz/competitions/02c29467-cb27-4beb-b2ef-500ad95e1a51)|Decentralized Lending Exchange (DLEX) Uniswap V2 fork|**1 solo H** → **Informational** (incorrect POC)|[📄](Reports/Ammalgam.md)|-|
 |Cantina|Solidity|[Succinct](https://cantina.xyz/competitions/bd882748-077e-4e55-853f-f8df70109dbb?utm_source=x&utm_medium=social&utm_campaign=july)|Decentralized marketplace for zero-knowledge proof generation and verification|**1 M**|[📄](Reports/Succinet.md)|Top 20
 |Sherlock|Solidity|[DODO Finanace](https://audits.sherlock.xyz/contests/852)|Cross-Chain DEX and Liquidity Management| **2 H** |[📄](Reports/DODO_FInance.md)|-|
 |Sherlock|Solidity|[DeBank](https://audits.sherlock.xyz/contests/852)|Dex Aggregator and router aggregator| No Bug in protocol |-|-|
