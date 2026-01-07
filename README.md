@@ -1,5 +1,5 @@
 # Security Portfolio
-This is my Audit portfolio consisting contests on sherlock, code4rena, cantina and codehawks.
+This is my security portfolio consisting contests on sherlock, code4rena, cantina and codehawks.
 
 ## Contacts
 - Twitter - https://twitter.com/0xorangesantra
