@@ -2,7 +2,7 @@
 This is my security portfolio consisting contests on sherlock, code4rena, cantina and codehawks.
 
 ## Contacts
-- Twitter - https://twitter.com/0xorangesantra
+- Twitter - https://twitter.com/0xshubham_sr
 - Telegram - https://t.me/orangesantra
 - Email - soliditydevxyz@gmail.com
 
