@@ -9,7 +9,7 @@ This is my security portfolio consisting contests on sherlock, code4rena, cantin
 ## Total Findings
 |High|Medium|Low|Total H+M|
 |:---|:-----|:--|:----|
-|24|18|13|43|
+|24|19|13|43|
 
 ## Contests
 Platform|Language|Contest|Description|Findings|Report|Rank|
