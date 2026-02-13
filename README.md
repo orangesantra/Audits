@@ -5,6 +5,7 @@ This is my security portfolio consisting contests on sherlock, code4rena, cantin
 - Twitter - https://twitter.com/0xshubham_sr
 - Telegram - https://t.me/orangesantra
 - Email - soliditydevxyz@gmail.com
+- Discord - https://discordapp.com/users/783040855941709857
 
 ## Total Findings
 |High|Medium|Low|Total H+M|
