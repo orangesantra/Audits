@@ -2,10 +2,10 @@
 This is my security portfolio consisting contests on sherlock, code4rena, cantina and codehawks.
 
 ## Contacts
-- Twitter - https://twitter.com/0xshubham_sr
-- Telegram - https://t.me/orangesantra
-- Email - soliditydevxyz@gmail.com
-- Discord - https://discordapp.com/users/783040855941709857
+- [Twitter](https://twitter.com/0xshubham_sr) 
+- [Telegram](https://t.me/orangesantra)
+- [Email](soliditydevxyz@gmail.com)
+- [Discord](https://discordapp.com/users/783040855941709857)
 
 ## Total Findings
 |High|Medium|Low|Total H+M|
@@ -15,7 +15,8 @@ This is my security portfolio consisting contests on sherlock, code4rena, cantin
 ## Contests
 Platform|Language|Contest|Description|Findings|Report|Rank|
 |:------|:-------|:------|:----------|:-------|------|----|
-|Code4rena|Solidity|[SukukFi](https://code4rena.com/audits/2025-11-sukukfi)|Profit sharing debt protocol|**1 M**|-|-
+|Sherlock|Solidity|[OpenCover Insured Vaults](https://audits.sherlock.xyz/contests/1222)|On-chain DeFi insurance|No Bug in Protocol|-|-|
+|Code4rena|Solidity|[SukukFi](https://code4rena.com/audits/2025-11-sukukfi)|Profit sharing debt protocol|**1 M**|-|-|
 |Cantina|Solidity|[Avon](https://cantina.xyz/competitions/708eecf5-a6a0-46c1-a949-277f7408decc/leaderboard)|Lending Infrastructure and OrderBook|**2 M**|-|Top 25|
 |Sherlock|Rust|[Dango Dex]()|OrderBook on Dango Chain|-|-|-|
 |Cantina|Solidity|[Kuru Finanace](https://cantina.xyz/code/cdce21ba-b787-4df4-9c56-b31d085388e7/overview)|OrderBook| **2 H** |-|Top 20|
