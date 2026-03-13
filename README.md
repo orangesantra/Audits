@@ -15,6 +15,7 @@ This is my security portfolio consisting contests on sherlock, code4rena, cantin
 ## Contests
 Platform|Language|Contest|Description|Findings|Report|Rank|
 |:------|:-------|:------|:----------|:-------|------|----|
+|Sherlock|Solidity|[Aave](https://audits.sherlock.xyz/contests/1209?filter=judging)|Lending|No Bug in Protocol|-|-|
 |Sherlock|Solidity|[OpenCover Insured Vaults](https://audits.sherlock.xyz/contests/1222)|On-chain DeFi insurance|No Bug in Protocol|-|-|
 |Code4rena|Solidity|[SukukFi](https://code4rena.com/audits/2025-11-sukukfi)|Profit sharing debt protocol|**1 M, 1L**|-|-|
 |Cantina|Solidity|[Avon](https://cantina.xyz/competitions/708eecf5-a6a0-46c1-a949-277f7408decc/leaderboard)|Lending Infrastructure and OrderBook|**2 M**|-|Top 25|
