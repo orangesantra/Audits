@@ -10,17 +10,19 @@ This is my security portfolio consisting contests on sherlock, code4rena, cantin
 ## Total Findings
 |High|Medium|Low|Total H+M|
 |:---|:-----|:--|:----|
-|24|19|13|43|
+|24|20|16|44|
 
 ## Contests
 Platform|Language|Contest|Description|Findings|Report|Rank|
 |:------|:-------|:------|:----------|:-------|------|----|
+https://audits.sherlock.xyz/contests?filter=all
+|Sherlock|Move/Sui|[Current Finance](https://audits.sherlock.xyz/contests/1256?filter=questions)|Leveraged Yield and Margin Markets|**1 M**|-|-|
 |Sherlock|Solidity|[Flying Tulip](https://audits.sherlock.xyz/contests/1223)|Options and Investment|No H/M severity Contest|-|-|
 |Sherlock|Solidity|[Aave V4](https://audits.sherlock.xyz/contests/1209?filter=judging)|Lending|No H/M severity Contest|-|-|
 |Sherlock|Solidity|[OpenCover Insured Vaults](https://audits.sherlock.xyz/contests/1222)|On-chain DeFi insurance|No H/M severity Contest|-|-|
 |Code4rena|Solidity|[SukukFi](https://code4rena.com/audits/2025-11-sukukfi)|Profit sharing debt protocol|**1 M, 1L**|-|-|
 |Cantina|Solidity|[Avon](https://cantina.xyz/competitions/708eecf5-a6a0-46c1-a949-277f7408decc/leaderboard)|Lending Infrastructure and OrderBook|**2 M**|-|Top 25|
-|Sherlock|Rust|[Dango Dex]()|OrderBook on Dango Chain|-|-|-|
+|Sherlock|Rust/Dango Chain|[Dango Dex]()|OrderBook on Dango Chain|**3 L**|-|-|
 |Cantina|Solidity|[Kuru Finanace](https://cantina.xyz/code/cdce21ba-b787-4df4-9c56-b31d085388e7/overview)|OrderBook| **2 H** |-|Top 20|
 |Sherlock|Solidity|[Rezerve money]()|-| **1 H** |-|-|
 |Cantina|Solidity|[Ammalgam](https://cantina.xyz/competitions/02c29467-cb27-4beb-b2ef-500ad95e1a51)|Decentralized Lending Exchange (DLEX) Uniswap V2 fork|**1 solo H** → **Informational** (incorrect POC)|[📄](Reports/Ammalgam.md)|-|
