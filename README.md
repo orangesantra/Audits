@@ -15,7 +15,6 @@ This is my security portfolio consisting contests on sherlock, code4rena, cantin
 ## Contests
 Platform|Language|Contest|Description|Findings|Report|Rank|
 |:------|:-------|:------|:----------|:-------|------|----|
-https://audits.sherlock.xyz/contests?filter=all
 |Sherlock|Move/Sui|[Current Finance](https://audits.sherlock.xyz/contests/1256?filter=questions)|Leveraged Yield and Margin Markets|**1 M**|-|-|
 |Sherlock|Solidity|[Flying Tulip](https://audits.sherlock.xyz/contests/1223)|Options and Investment|No H/M severity Contest|-|-|
 |Sherlock|Solidity|[Aave V4](https://audits.sherlock.xyz/contests/1209?filter=judging)|Lending|No H/M severity Contest|-|-|
